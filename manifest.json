@@ -1,0 +1,15 @@
+{
+    "name":"Incognito_Jokes",
+    "version":"1.0.0",
+    "description":"This is my BUILD_IN Extension !!",
+    "manifest_version":3,
+    "author":"Pushpendu Dey",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png",
+        "default_title":"My Chrome Extension"
+    },
+    "icons":{
+        "128":"icon.png"
+    }
+}
